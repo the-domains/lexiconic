@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T21:06:16.354Z'
-dateModified: '2016-04-20T21:06:03.930Z'
+datePublished: '2016-04-20T21:10:35.079Z'
+dateModified: '2016-04-20T21:09:51.957Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-20-scrum-or-itil-or-project-startup.md
 published: true
 authors: []
