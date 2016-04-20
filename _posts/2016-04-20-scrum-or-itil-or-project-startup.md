@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-20T21:15:05.817Z'
-dateModified: '2016-04-20T21:14:56.065Z'
+datePublished: '2016-04-20T21:31:17.212Z'
+dateModified: '2016-04-20T21:25:35.333Z'
 title: Test Link
 author:
   - name: ''
@@ -28,4 +28,4 @@ _type: Article
 
 # [Test Link][0]
 
-[0]: www.cnn.com
+[0]: www.yahoo.com
