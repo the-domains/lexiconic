@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-21T19:04:10.078Z'
-dateModified: '2016-04-21T19:04:05.832Z'
+datePublished: '2016-04-21T19:06:04.666Z'
+dateModified: '2016-04-21T19:05:59.356Z'
 title: 'Scrum is an agile way to manage a project, usually software development. Agile software development with Scrum is often perceived as a methodology; but rather than viewing Scrum as methodology, think of it as a framework for managing a process.'
 author: []
 sourcePath: _posts/2016-04-21-scrum-is-an-agile-way-to-manage-a-project-usually-software.md
