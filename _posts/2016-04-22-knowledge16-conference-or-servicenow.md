@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,20 +16,20 @@ keywords:
   - hands-on
   - email
 description: Knowledge16 our annual gathering of service management professionals using enterprise cloud services to change the way people work.
-datePublished: '2016-04-22T00:06:11.495Z'
-dateModified: '2016-04-22T00:06:05.650Z'
+datePublished: '2016-04-22T00:18:10.342Z'
+dateModified: '2016-04-22T00:08:07.044Z'
 author: []
 related: []
 app_links: []
 title: 'Knowledge16 Conference | ServiceNow'
+sourcePath: _posts/2016-04-22-knowledge16-conference-or-servicenow.md
+published: true
 authors: []
 publisher:
   name: Servicenow
   domain: knowledge.servicenow.com
   url: 'http://knowledge.servicenow.com'
   favicon: 'http://knowledge.servicenow.com/etc/designs/servicenow-knowledge/img/favicon.ico'
-sourcePath: _posts/2016-04-22-knowledge16-conference-or-servicenow.md
-published: true
 url: knowledge16-conference-or-servicenow/index.html
 _context: 'http://schema.org'
 _type: MediaObject
