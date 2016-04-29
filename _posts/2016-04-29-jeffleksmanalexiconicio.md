@@ -5,21 +5,21 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: jeff.leksmana@lexiconic.io
-datePublished: '2016-04-29T22:56:48.792Z'
-dateModified: '2016-04-29T22:56:37.670Z'
+description: ''
+datePublished: '2016-04-29T23:39:12.992Z'
+dateModified: '2016-04-29T23:39:12.526Z'
 title: ''
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 starred: true
 sourcePath: _posts/2016-04-29-jeffleksmanalexiconicio.md
 published: true
 _type: Blurb
 
 ---
-jeff.leksmana@lexiconic.io
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef142496-4efb-4d95-a265-c85047da5124.jpg)
