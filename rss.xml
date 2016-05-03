@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Scrum | ITIL | Project Consulting]]></title>
+        <description><![CDATA[Scrum | ITIL | Project Consulting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 20:00:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Knowledge16 Agenda | ServiceNow]]></title>
+            <description><![CDATA[<article><h1>Knowledge16 Agenda | ServiceNow</h1><p>Official agenda of the Knowledge16 Conference in Las Vegas (May 16-20, 2016) at Mandalay Bay. Content, programs, and other networking events.</p></article>]]></description>
+            <link>http://knowledge.servicenow.com/agenda.html</link>
+            <guid isPermaLink="false">5815c7de-a233-40ef-9491-1289a42d41e2</guid>
+            <pubDate>Tue, 03 May 2016 20:00:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
