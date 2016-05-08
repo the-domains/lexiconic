@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Scrum | ITIL | Project Consulting]]></title>
         <description><![CDATA[Scrum | ITIL | Project Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://lexiconic.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 20:00:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 21:11:11 GMT</lastBuildDate>
+        <atom:link href="http://lexiconic.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Page 1 | Page 2 | Page 3</p>]]></description>
+            <link>http://lexiconic.io/page-1-or-page-2-or-page-3/index.html</link>
+            <guid isPermaLink="false">9290aa83-50f3-4079-b609-418c542531a6</guid>
+            <pubDate>Sun, 08 May 2016 21:11:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Knowledge16 Agenda | ServiceNow]]></title>
             <description><![CDATA[<article><h1>Knowledge16 Agenda | ServiceNow</h1><p>Official agenda of the Knowledge16 Conference in Las Vegas (May 16-20, 2016) at Mandalay Bay. Content, programs, and other networking events.</p></article>]]></description>
