@@ -1,7 +1,7 @@
 name: 'lexiconic, inc.'
 favicon: null
-layout_spectrum: 0.50084
-typography_spectrum: 0.75931
+layout_spectrum: 0.67346
+typography_spectrum: 0.83384
 title: 'Scrum | ITIL | Project Consulting'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#080a17'
-    - '#fefefe'
-    - '#7a6051'
-    - '#a09baa'
-    - '#972712'
-  brandStrength: 0.8125
-  lightness: 0.5
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+    - '#f2f6f9'
+    - '#28411a'
+    - '#de1b21'
+    - '#d0c3bc'
+    - '#af6f49'
+  brandStrength: 0.9375
+  lightness: 0.1875
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
