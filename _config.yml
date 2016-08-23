@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: www.lexiconic.io
+    type: external
 favicon: null
 title: Scrum | ITIL | Project Consulting
 purpose: []
