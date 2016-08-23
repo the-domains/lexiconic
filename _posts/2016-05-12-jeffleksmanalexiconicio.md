@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-23T23:43:06.428Z'
+datePublished: '2016-08-23T23:53:01.115Z'
+sourcePath: _posts/2016-05-12-jeffleksmanalexiconicio.md
 inFeed: true
 authors: []
 hasPage: true
@@ -8,13 +9,12 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T23:42:43.293Z'
+dateModified: '2016-08-23T23:53:00.615Z'
 title: ''
 publisher: {}
 description: jeff.leksmana@lexiconic.io
 inLanguage: null
 inNav: false
-sourcePath: _posts/2016-05-12-jeffleksmanalexiconicio.md
 starred: false
 url: jeffleksmanalexiconicio/index.html
 _type: Article
