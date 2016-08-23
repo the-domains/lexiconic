@@ -1,20 +1,4 @@
-name: 'lexiconic, inc.'
-favicon: null
-layout_spectrum: 0.67346
 typography_spectrum: 0.83384
-title: 'Scrum | ITIL | Project Consulting'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f2f6f9'
@@ -26,4 +10,20 @@ color:
   lightness: 0.1875
   saturation: 0.6875
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.67346
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'lexiconic, inc.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Scrum | ITIL | Project Consulting
 purpose: []
